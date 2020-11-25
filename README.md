@@ -1,2 +1,2 @@
-# FrontEndMentor
+# Profile Card Component
 FrontEndMentor Challenges
